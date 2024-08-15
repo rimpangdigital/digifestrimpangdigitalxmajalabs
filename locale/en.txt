@@ -45,9 +45,9 @@ imlevel_7C05ADA3_5410_D9B8_41D3_CD9E5EDB9BF9.url = media/popup_7E099BDA_5410_D98
 imlevel_7C05BDA4_5410_D9B8_41C4_09E94C4387ED.url = media/popup_7E099BDA_5410_D988_41D0_84BFC3FC4C38_en_0_1.jpg
 imlevel_7C058DA4_5410_D9B8_41C2_E879B294CFD1.url = media/popup_7E099BDA_5410_D988_41D0_84BFC3FC4C38_en_0_2.jpg
 imlevel_7C048DA4_5410_D9B8_41D1_923357AB32F3.url = media/popup_7E099BDA_5410_D988_41D0_84BFC3FC4C38_en_0_3.jpg
-imlevel_7F875859_5410_4688_41CD_AF957635440C.url = media/zoomImage_488653F0_5411_C998_41D4_1A02AB2EAA2A_en_0_0.jpg
-imlevel_7F87285A_5410_4688_41CD_B6363D56D572.url = media/zoomImage_488653F0_5411_C998_41D4_1A02AB2EAA2A_en_0_1.jpg
-imlevel_7F87185A_5410_4688_41D2_C54E9AC89B35.url = media/zoomImage_488653F0_5411_C998_41D4_1A02AB2EAA2A_en_0_2.jpg
+imlevel_7F9FADF8_5410_D997_41BC_71CD7A3A97A5.url = media/zoomImage_488653F0_5411_C998_41D4_1A02AB2EAA2A_en_0_0.jpg
+imlevel_7F9F8DF8_5410_D997_41C8_F6AB84534FAE.url = media/zoomImage_488653F0_5411_C998_41D4_1A02AB2EAA2A_en_0_1.jpg
+imlevel_7F9F9DF9_5410_D989_4183_9C39BAB33E94.url = media/zoomImage_488653F0_5411_C998_41D4_1A02AB2EAA2A_en_0_2.jpg
 
 ### Popup Image
 
@@ -113,10 +113,8 @@ Image_76DEA407_5470_4E78_41BD_039F73D5133B.url = skin/Image_76DEA407_5470_4E78_4
 Image_779F2F25_5470_3AB9_41D4_F8D5746EDA6A.url = skin/Image_779F2F25_5470_3AB9_41D4_F8D5746EDA6A_en.png
 
 ### Label
-Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = DOLOR SIT AMET, CONSECTETUR
 Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = DOLOR SIT AMET, CONSECTETUR
 Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = LOREM IPSUM
-Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = LOREM IPSUM
 
 ### Multiline Text
 HTMLText_1F95DE40_022E_7BF1_4170_16BB769D1510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.369999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
